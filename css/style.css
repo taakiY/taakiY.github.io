@@ -51,3 +51,7 @@ h3>span{
     height: 100vh;
 
 }
+p{
+    font-size: 24px;
+    width: fit-content;
+}
